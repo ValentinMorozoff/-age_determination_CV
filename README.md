@@ -1,2 +1,2 @@
-# -age_determination_CV
+# age_determination_CV
 Построение модели определения возраста человека по фотографии
